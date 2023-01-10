@@ -1,5 +1,9 @@
 # to_be_determined_dao
 
+"The TBD DAO: where community power is dowsed and harnessed."
+
+This slogan plays on the idea of "dowsing," which is the use of a divining rod to locate underground water or other resources, by using it to represent the idea of finding and harnessing community power. The slogan suggests that the TBD DAO is a place where community power is identified and used to drive change and achieve common goals.
+
 A social enterprise is an organization that applies commercial strategies to maximize improvements in human and environmental well-being, rather than maximizing profits for external shareholders. A social enterprise may take the form of a non-profit organization, a for-profit organization, or a hybrid structure that blends elements of both non-profit and for-profit organizations.
 
 One structure for a social enterprise is a decentralized autonomous organization (DAO). A DAO is a type of organization that is run through a set of rules encoded into smart contracts on a blockchain. These rules are enforced by the network of users who own and interact with the DAO.

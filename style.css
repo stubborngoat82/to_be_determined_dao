@@ -7,16 +7,24 @@ body {
   }
   
   header {
-    background-color: #fff;
-    color: #fff;
+    
+    background-image: radial-gradient(turquoise, blue, darkgray);
+    background-color: #cccccc;
     padding: 20px;
     text-align: center;
-  }
+  } 
   
-  header h1 {
+  header p {
     margin: 0;
-    font-size: 32px;
-    line-height: 1.2;
+    font-size: 100px;
+    font-weight: 600;
+    line-height:  1.2;
+  }
+
+  .headertitle {
+
+    font-size: 100px;
+    color: grey;
   }
   
   nav {
